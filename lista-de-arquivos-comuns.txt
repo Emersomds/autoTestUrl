@@ -1,0 +1,16 @@
+admin.php
+login
+sign-up
+sign-in
+sign_up
+sign_in
+robots.txt
+admin
+administrator
+admin1
+admin2
+backup
+bkp
+bkp.zip
+index.php
+vendor
