@@ -5,7 +5,7 @@
 busca na lista de provaveis nome e concatena, faz um for, se a url existi ele retorna Diretorio ou arquivo encontrado, caso não
 diretorio ou arquivo não encontrado (404).</p>
 
-<p color="green">Exemplo da execução
+<p> <h2>Exemplo da execução</h2><br>
 http://127.0.0.1:8000/admin.php <br>
 [X] Diretório ou arquivo não encontrado (404): admin.php<br>
 http://127.0.0.1:8000/login<br>
